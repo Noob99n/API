@@ -5,7 +5,7 @@ import threading
 import json
 
 # CONFIG
-SERVER_URL = 'http://15.207.110.63:8010'
+SERVER_URL = 'http://13.233.141.140:8010'
 POLL_INTERVAL = 0.1  # 100ms - SUPER FAST POLLING
 BINARY_NAME = './gyrange'  # Default binary
 
@@ -183,3 +183,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
